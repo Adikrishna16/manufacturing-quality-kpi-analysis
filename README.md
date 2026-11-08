@@ -32,6 +32,15 @@ The project focuses on three business questions:
 | Average supplier quality | Mean supplier quality | 89.83% |
 | Average worker productivity | Mean worker productivity | 90.04% |
 
+
+### Manufacturing KPI Dashboard
+
+The dashboard provides a visual summary of five key
+manufacturing performance indicators, supporting
+operational monitoring and quality assessment.
+
+![Manufacturing KPI Dashboard](manufacturing_kpi_dashboard.png)
+
 ## Key Findings
 
 **Quality monitoring:** 740 of 3,240 observations (22.84%) exceeded an illustrative threshold of 4 defects per 1,000 units. This identifies records for potential investigation, not the percentage of defective products.
